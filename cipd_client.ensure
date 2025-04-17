@@ -3,5 +3,5 @@
 #
 # $ cipd export -root . -ensure-file cipd_client.ensure
 
-@subdir linux-x86_64
+@subdir linux-x86
 infra/tools/cipd/linux-amd64 ab_dZnF7vSRWnHbReOD4B1wtiju3JFJswwOPsziGwKgC
