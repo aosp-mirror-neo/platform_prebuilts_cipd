@@ -6,7 +6,7 @@
 $ResolvedVersions cipd_client.versions
 
 @subdir linux-x86
-infra/tools/cipd/linux-amd64 git_revision:a1b5e2b43a32b893a4e24d16b1e79575cfb76a66
+infra/tools/cipd/linux-amd64 git_revision:ee5e0ddd9cc11326b1685813bdcced987f50572a
 
 @subdir darwin-x86
-infra/tools/cipd/mac-amd64 git_revision:a1b5e2b43a32b893a4e24d16b1e79575cfb76a66
+infra/tools/cipd/mac-amd64 git_revision:ee5e0ddd9cc11326b1685813bdcced987f50572a
