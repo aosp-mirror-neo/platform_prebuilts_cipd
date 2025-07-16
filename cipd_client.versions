@@ -2,9 +2,9 @@
 # Do not modify manually. All changes will be overwritten.
 
 infra/tools/cipd/linux-amd64
-	git_revision:7b7d3222793c9737b84b1a9f8a262176a4877e8b
-	nDoXPE2u9eQEZ1WAIsdO47bOQ76af6NmGmiwnzfmv4UC
+	git_revision:22294df56ce09faf49c2788cbba6b52c71168e27
+	SpPN_KGRk1c74OjDCNlk9dogbVXj-bnvgeBEXalACRYC
 
 infra/tools/cipd/mac-amd64
-	git_revision:7b7d3222793c9737b84b1a9f8a262176a4877e8b
-	uQr8NxXL-Znf3hKitaHpdyIO1zhyxvs-CDcCvmIe6roC
+	git_revision:22294df56ce09faf49c2788cbba6b52c71168e27
+	o8Yp_-oyJK5bK7c6w8XgEW4yaZk9n7j70zz5rIolC2QC
